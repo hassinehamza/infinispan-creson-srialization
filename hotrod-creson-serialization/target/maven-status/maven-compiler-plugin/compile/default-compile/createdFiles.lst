@@ -1,0 +1,5 @@
+org/infinispan/hotrod/creson/serialization/RemoteQuery.class
+org/infinispan/hotrod/creson/serialization/Search.class
+org/infinispan/hotrod/creson/serialization/QueryOperation.class
+org/infinispan/hotrod/creson/serialization/QueryFactory.class
+org/infinispan/client/hotrod/impl/operations/OperationsFactory.class
